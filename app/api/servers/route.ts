@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { currentProfile } from "@/lib/current-profile";
 
 import { v4 as uuidv4 } from "uuid";

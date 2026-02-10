@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { currentProfile } from "@/lib/current-profile";
 import { db } from "@/lib/db";
 import { MemberRole } from "@prisma/client";

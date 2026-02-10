@@ -16,6 +16,11 @@ Online live Chat application clone of discord.
 
 ##Start guide
 
+Genearte prisma 
+```bash
+npx prisma generate 
+```
+
 First, run the development server:
 
 ```bash
